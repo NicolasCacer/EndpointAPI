@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const port = 3000; // Port can be adjusted
+const port = 8888; // Port can be adjusted
 
 // Load data from JSON file
 const dataPath = path.join(__dirname, 'data.json');

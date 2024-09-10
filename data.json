@@ -1,4 +1,10 @@
 {
-    "1":"nicolas",
-    "2":"Jhojan"
+    "1":{
+        "name":"nicolas",
+        "corre":"nicolascacpa@unisabana.edu.co"
+    },
+    "2":{
+        "name":"jhojan",
+        "correo":"jhojanCamilo@unisabana.edu.co"
+    }
 }
